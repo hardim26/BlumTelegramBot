@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/BlumCryptoBot/app?startapp=ref_QwD3tLsY8f)
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/BlumCryptoBot/app?startapp=ref_euFnzvZKEl)
 
 ## Recommendation before use
 
@@ -46,7 +46,7 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](https://github.com/HiddenCodeDevs/BlumTelegramBot) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://github.com/hardim26/BlumTelegramBot) by cloning it to your system and installing the necessary dependencies:
 ```shell
 git clone https://github.com/HiddenCodeDevs/BlumTelegramBot.git
 cd BlumTelegramBot
